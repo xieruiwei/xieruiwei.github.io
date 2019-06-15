@@ -1,8 +1,17 @@
-# 小 k.o___:xieruiwei 
+# 小 k.o【xieruiwei】 
 
 
-### 使用手册
+---
+layout: page
+title: 关于我 
+---
 
+东莞理工学院大三学生。
+<p>
+正在学习——深度学习、机器学习、备考研究生。
+<p>
+了解一些 前端 基本概念和 Python 的简单用法。
 
-[HEXO搭建个人博客](http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) : 使用 HEXO 基于 Github Page 搭建个人博客， 教程里面累计了大量提问和评论，如果你在搭建博客时遇到问题，可以看看这个教程。 
+<p>
+
 
