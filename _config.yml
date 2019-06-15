@@ -1,12 +1,12 @@
-# Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+﻿# Basic
+title: 小k.o
+subtitle: 个人博客
+description: 欢迎来到我的个人博客
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 机器视觉 / 深度学习
+url: "http://xieruiwei.github.io"
 
 # Comment
 comment:
@@ -16,13 +16,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
+    weibo: 6228278010
+    github: xieruiwei
+    # zhihu: xxx
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 08e3d00b2658
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 969987665@qq.com
 
 
 # 百度统计 
@@ -40,8 +40,7 @@ ga:
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  _post/ 下的文章更换成自己的文章
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
