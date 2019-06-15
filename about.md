@@ -1,3 +1,7 @@
+---
+layout: page
+title: 关于我 
+---
 # 小 k.o【xieruiwei】 
 
 
